@@ -1,5 +1,5 @@
 # G.U.B
-G.U.B standing for "Gateway Uninterrupted Breakdown" can disrupt network gateways with uninterrupted effectiveness, and if you're wondering yes this is a ddosing tool so go to town.
+so yea this is dead and shit so dont use it and it didnt even work it just timed out the website on your end
 
 
 ## screenshots to prove its not a virus
